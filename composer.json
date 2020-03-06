@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/steam",
+    "name": "koch/steam",
     "description": "Steam OpenID Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
